@@ -139,7 +139,7 @@
 <div class="sidenav">
 
     <h2 id="sales">SALES PAGE</h2>
-    <a href="PageTest.jsp">MENU</a>
+    <a href="index.jsp">MENU</a>
     <a href="AddSales.jsp">ADD SALES</a>
     <a href="EditSales.jsp">EDIT SALES</a>
     <a href="ViewSales.jsp">VIEW SALES</a>
