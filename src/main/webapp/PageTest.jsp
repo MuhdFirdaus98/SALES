@@ -80,7 +80,6 @@
     <a href="AddSales.jsp">ADD SALES</a>
     <a href="EditSales.jsp">EDIT SALES</a>
     <a href="ViewSales.jsp">VIEW SALES</a>
-
 </div>
 
 <div class="content">

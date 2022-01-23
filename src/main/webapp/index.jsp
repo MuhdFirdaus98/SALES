@@ -18,7 +18,6 @@
             <a href="EditSales.jsp">EDIT SALES</a>
             <a href="ViewSales.jsp">VIEW SALES</a>
             <a href="PageTest.jsp">MENU</a>
-
         </div>
         <div class="a">
             <h1>N BARBER SHOP SALES PAGE</h1>
