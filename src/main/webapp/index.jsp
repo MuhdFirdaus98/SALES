@@ -21,7 +21,7 @@
 
         </div>
         <div class="a">
-            <h1 style="text-align: center">N BARBER SHOP SALES PAGE</h1>
+            <h1>N BARBER SHOP SALES PAGE</h1>
             <p> Welcome to N Barber Shop Sales Page</p>
         </div>
     </div>
