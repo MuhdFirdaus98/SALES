@@ -85,7 +85,7 @@
 
 <div class="content">
     <h2>N BARBER SHOP SALES PAGE</h2>
-    <p> Welcome to N Barber Shop Sales Page</p>
+    <p> Welcome to N Barber Shop Sales Paged</p>
 </div>
 
 </body>
